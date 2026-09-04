@@ -1,0 +1,1001 @@
+amount,payment_method,failure_reason,attempt_count,recovered
+24999,UPI,Insufficient Funds,3,1
+799,UPI,Transaction Timeout,1,1
+299,UPI,Insufficient Funds,2,1
+14999,UPI,Transaction Timeout,2,0
+49999,Wallet,Bank Declined,2,0
+1499,UPI,Card Expired,4,1
+799,Credit Card,Network Error,1,1
+499,Debit Card,Network Error,5,1
+299,Net Banking,Transaction Timeout,1,0
+2499,UPI,Transaction Timeout,3,0
+14999,Debit Card,Transaction Timeout,2,0
+299,Credit Card,Network Error,1,0
+499,Net Banking,Network Error,4,1
+1999,Credit Card,Network Error,3,1
+1499,UPI,Transaction Timeout,2,1
+999,Credit Card,Bank Declined,4,1
+24999,Wallet,Card Expired,3,0
+299,Credit Card,Insufficient Funds,3,1
+499,Credit Card,Transaction Timeout,3,1
+4999,Net Banking,Bank Declined,2,1
+999,Wallet,Transaction Timeout,3,0
+2499,Wallet,Bank Declined,3,1
+799,Wallet,Bank Declined,1,0
+499,Credit Card,Card Expired,4,0
+2499,Net Banking,Transaction Timeout,4,1
+9999,UPI,Insufficient Funds,5,0
+24999,Debit Card,Insufficient Funds,3,0
+4999,UPI,Network Error,5,0
+9999,UPI,Network Error,5,0
+799,Debit Card,Card Expired,5,0
+9999,UPI,Transaction Timeout,3,1
+499,Debit Card,Network Error,2,1
+14999,UPI,Insufficient Funds,4,0
+9999,Credit Card,Card Expired,4,0
+799,Debit Card,Transaction Timeout,5,1
+999,Wallet,Card Expired,3,0
+24999,Debit Card,Bank Declined,5,0
+999,Credit Card,Insufficient Funds,3,1
+9999,Credit Card,Transaction Timeout,2,1
+49999,UPI,Card Expired,1,0
+1999,UPI,Transaction Timeout,2,1
+4999,Credit Card,Transaction Timeout,2,0
+14999,Wallet,Bank Declined,2,0
+2499,Credit Card,Insufficient Funds,1,0
+1999,Net Banking,Bank Declined,4,0
+299,UPI,Insufficient Funds,4,0
+499,Credit Card,Card Expired,2,0
+799,Net Banking,Card Expired,3,1
+499,Net Banking,Transaction Timeout,1,1
+9999,UPI,Insufficient Funds,2,1
+4999,Net Banking,Card Expired,4,0
+799,Net Banking,Insufficient Funds,4,1
+4999,Debit Card,Bank Declined,5,0
+4999,Credit Card,Card Expired,3,1
+299,Wallet,Transaction Timeout,1,0
+299,UPI,Transaction Timeout,4,1
+9999,Credit Card,Insufficient Funds,5,1
+799,UPI,Transaction Timeout,1,1
+999,Net Banking,Insufficient Funds,5,1
+14999,UPI,Transaction Timeout,1,1
+14999,Wallet,Transaction Timeout,3,0
+999,Debit Card,Card Expired,3,0
+24999,Debit Card,Bank Declined,3,0
+499,UPI,Bank Declined,5,0
+499,UPI,Transaction Timeout,2,1
+799,Debit Card,Insufficient Funds,2,1
+799,Net Banking,Transaction Timeout,3,1
+24999,Wallet,Insufficient Funds,5,0
+24999,UPI,Card Expired,3,1
+499,Wallet,Card Expired,3,1
+999,Debit Card,Card Expired,3,0
+1499,UPI,Insufficient Funds,4,0
+299,UPI,Network Error,2,1
+1499,Credit Card,Bank Declined,5,0
+9999,UPI,Insufficient Funds,1,0
+49999,Credit Card,Transaction Timeout,1,0
+14999,Wallet,Card Expired,4,1
+1499,Debit Card,Insufficient Funds,3,1
+999,UPI,Network Error,5,0
+2499,Wallet,Card Expired,2,0
+799,Net Banking,Insufficient Funds,2,1
+1999,Net Banking,Card Expired,3,1
+49999,UPI,Bank Declined,1,0
+999,Credit Card,Bank Declined,3,1
+999,Credit Card,Insufficient Funds,2,1
+1499,UPI,Network Error,3,1
+2499,Wallet,Network Error,1,1
+1499,Credit Card,Transaction Timeout,3,1
+14999,Net Banking,Network Error,3,1
+9999,UPI,Bank Declined,5,1
+299,Net Banking,Insufficient Funds,5,0
+9999,Credit Card,Network Error,4,1
+24999,Debit Card,Transaction Timeout,3,0
+499,Debit Card,Transaction Timeout,3,0
+1999,Net Banking,Network Error,5,1
+2499,Net Banking,Card Expired,5,0
+2499,Wallet,Insufficient Funds,3,1
+2499,Wallet,Transaction Timeout,3,0
+4999,Credit Card,Transaction Timeout,4,0
+49999,Credit Card,Insufficient Funds,3,0
+24999,Wallet,Network Error,1,0
+999,Debit Card,Card Expired,2,1
+299,Credit Card,Bank Declined,5,0
+499,Net Banking,Bank Declined,5,1
+49999,Net Banking,Bank Declined,4,1
+24999,UPI,Insufficient Funds,4,1
+49999,Wallet,Bank Declined,1,0
+499,Net Banking,Card Expired,4,0
+9999,Wallet,Network Error,4,0
+49999,Wallet,Bank Declined,5,0
+799,Net Banking,Bank Declined,3,0
+24999,Debit Card,Transaction Timeout,4,0
+1499,Net Banking,Insufficient Funds,3,1
+1999,Debit Card,Transaction Timeout,1,1
+999,Net Banking,Card Expired,2,1
+2499,Debit Card,Transaction Timeout,4,1
+999,Net Banking,Bank Declined,5,0
+299,Wallet,Bank Declined,4,1
+1999,Debit Card,Bank Declined,4,0
+49999,Wallet,Transaction Timeout,2,0
+1499,Net Banking,Bank Declined,1,1
+24999,Net Banking,Card Expired,4,0
+14999,Wallet,Insufficient Funds,4,0
+24999,UPI,Insufficient Funds,4,1
+4999,Credit Card,Insufficient Funds,3,1
+999,Net Banking,Network Error,3,0
+2499,Debit Card,Bank Declined,3,0
+4999,UPI,Transaction Timeout,1,0
+1999,Credit Card,Insufficient Funds,1,0
+999,Credit Card,Insufficient Funds,5,1
+799,Net Banking,Insufficient Funds,5,0
+4999,Debit Card,Network Error,2,0
+49999,UPI,Card Expired,3,1
+299,Debit Card,Transaction Timeout,4,1
+49999,Credit Card,Insufficient Funds,5,0
+24999,Credit Card,Insufficient Funds,3,0
+14999,UPI,Transaction Timeout,1,1
+2499,Debit Card,Insufficient Funds,5,0
+299,Net Banking,Bank Declined,1,1
+1999,Net Banking,Card Expired,4,1
+9999,Debit Card,Transaction Timeout,5,0
+4999,Net Banking,Transaction Timeout,3,1
+999,UPI,Network Error,4,1
+4999,Wallet,Transaction Timeout,4,1
+4999,Debit Card,Card Expired,4,1
+1499,Debit Card,Network Error,5,0
+1499,Wallet,Insufficient Funds,5,0
+499,Credit Card,Bank Declined,4,0
+999,Net Banking,Bank Declined,4,0
+499,Debit Card,Card Expired,4,0
+1499,Wallet,Network Error,4,0
+1999,Net Banking,Transaction Timeout,3,1
+4999,Debit Card,Network Error,3,1
+49999,Credit Card,Network Error,1,0
+49999,Credit Card,Card Expired,2,0
+1499,Wallet,Transaction Timeout,5,1
+499,Credit Card,Network Error,2,1
+1499,UPI,Transaction Timeout,2,1
+299,Wallet,Network Error,2,1
+4999,UPI,Insufficient Funds,5,1
+4999,Net Banking,Network Error,2,0
+1499,Net Banking,Insufficient Funds,1,1
+499,Wallet,Insufficient Funds,2,1
+14999,Debit Card,Insufficient Funds,2,1
+2499,Wallet,Transaction Timeout,5,1
+9999,Net Banking,Bank Declined,4,1
+14999,Net Banking,Network Error,5,0
+14999,UPI,Card Expired,2,1
+499,Credit Card,Card Expired,2,0
+799,UPI,Bank Declined,4,0
+4999,Debit Card,Insufficient Funds,2,1
+1499,Net Banking,Insufficient Funds,2,0
+24999,Wallet,Card Expired,4,0
+999,Credit Card,Network Error,2,1
+799,Debit Card,Transaction Timeout,5,0
+4999,UPI,Bank Declined,3,0
+1499,Wallet,Transaction Timeout,4,1
+14999,UPI,Bank Declined,3,0
+299,UPI,Card Expired,5,0
+299,Debit Card,Transaction Timeout,1,0
+799,Net Banking,Transaction Timeout,4,0
+799,Wallet,Bank Declined,4,0
+4999,Debit Card,Bank Declined,3,0
+499,Credit Card,Network Error,4,0
+1499,Net Banking,Transaction Timeout,1,1
+1999,Debit Card,Network Error,1,0
+2499,Wallet,Insufficient Funds,5,0
+299,Credit Card,Transaction Timeout,3,0
+4999,Net Banking,Insufficient Funds,2,1
+799,Debit Card,Bank Declined,4,1
+24999,Wallet,Card Expired,2,0
+299,Wallet,Bank Declined,1,1
+499,Net Banking,Insufficient Funds,2,1
+49999,Debit Card,Transaction Timeout,3,0
+4999,Net Banking,Card Expired,4,0
+2499,Credit Card,Transaction Timeout,5,0
+799,UPI,Network Error,4,1
+9999,Debit Card,Insufficient Funds,3,0
+14999,Wallet,Bank Declined,2,0
+4999,Debit Card,Network Error,5,0
+2499,Net Banking,Network Error,2,0
+999,Wallet,Bank Declined,2,0
+2499,UPI,Network Error,4,0
+2499,Net Banking,Card Expired,4,0
+799,Wallet,Transaction Timeout,3,0
+4999,UPI,Transaction Timeout,4,1
+799,Net Banking,Card Expired,1,1
+1499,Debit Card,Transaction Timeout,4,0
+1999,Wallet,Bank Declined,3,0
+4999,Wallet,Insufficient Funds,5,1
+24999,Debit Card,Card Expired,1,0
+499,UPI,Bank Declined,2,0
+299,UPI,Network Error,1,1
+1999,Net Banking,Card Expired,2,1
+14999,Credit Card,Card Expired,2,1
+2499,Wallet,Card Expired,4,0
+799,Credit Card,Bank Declined,3,0
+24999,UPI,Bank Declined,3,0
+799,UPI,Bank Declined,3,0
+1499,Net Banking,Network Error,4,0
+999,Net Banking,Bank Declined,1,1
+14999,Debit Card,Transaction Timeout,3,0
+1499,UPI,Bank Declined,3,1
+24999,UPI,Transaction Timeout,4,0
+1499,Credit Card,Transaction Timeout,3,1
+999,Wallet,Network Error,2,1
+24999,UPI,Network Error,4,1
+1999,Credit Card,Insufficient Funds,3,1
+2499,Credit Card,Card Expired,2,0
+1999,Wallet,Transaction Timeout,3,0
+1499,Net Banking,Network Error,3,0
+4999,UPI,Card Expired,2,0
+49999,Net Banking,Transaction Timeout,3,1
+2499,UPI,Network Error,5,1
+1999,Debit Card,Transaction Timeout,4,0
+1999,UPI,Card Expired,4,1
+9999,Debit Card,Transaction Timeout,2,0
+24999,Net Banking,Network Error,4,1
+299,UPI,Network Error,4,1
+999,Wallet,Card Expired,4,0
+24999,Wallet,Bank Declined,5,0
+799,Net Banking,Insufficient Funds,4,1
+1499,UPI,Network Error,2,1
+999,Debit Card,Insufficient Funds,3,1
+24999,Debit Card,Insufficient Funds,4,1
+499,Net Banking,Insufficient Funds,2,1
+14999,UPI,Insufficient Funds,3,1
+799,Wallet,Card Expired,1,0
+9999,Credit Card,Transaction Timeout,2,0
+999,Debit Card,Card Expired,5,1
+799,Credit Card,Transaction Timeout,3,0
+499,UPI,Card Expired,1,1
+999,Wallet,Network Error,1,1
+299,Credit Card,Bank Declined,5,1
+499,Net Banking,Bank Declined,3,0
+499,Net Banking,Transaction Timeout,2,0
+299,Wallet,Network Error,4,0
+299,UPI,Bank Declined,4,1
+499,Net Banking,Bank Declined,1,0
+1999,Wallet,Card Expired,1,1
+14999,Wallet,Transaction Timeout,3,1
+14999,Wallet,Network Error,4,0
+2499,UPI,Insufficient Funds,5,0
+999,Net Banking,Bank Declined,2,1
+4999,Net Banking,Bank Declined,1,1
+1999,Debit Card,Network Error,2,1
+4999,UPI,Insufficient Funds,1,1
+499,Debit Card,Card Expired,5,1
+9999,Wallet,Network Error,1,1
+24999,Net Banking,Insufficient Funds,3,0
+1999,UPI,Transaction Timeout,5,1
+24999,Net Banking,Card Expired,1,1
+9999,Debit Card,Insufficient Funds,3,0
+2499,Wallet,Transaction Timeout,5,0
+9999,UPI,Transaction Timeout,3,1
+1499,Debit Card,Network Error,3,1
+799,Wallet,Bank Declined,1,1
+24999,UPI,Insufficient Funds,5,1
+2499,Net Banking,Network Error,2,1
+49999,Debit Card,Transaction Timeout,5,1
+299,Credit Card,Card Expired,5,1
+499,Debit Card,Bank Declined,4,0
+4999,Net Banking,Network Error,2,0
+499,Debit Card,Bank Declined,1,1
+24999,Wallet,Bank Declined,5,0
+299,Credit Card,Bank Declined,5,1
+999,Debit Card,Card Expired,2,0
+1499,Debit Card,Insufficient Funds,1,1
+2499,Credit Card,Card Expired,4,0
+999,Wallet,Transaction Timeout,3,1
+49999,UPI,Bank Declined,1,1
+499,Debit Card,Transaction Timeout,4,0
+49999,Net Banking,Network Error,1,1
+1999,Credit Card,Transaction Timeout,4,0
+1999,UPI,Bank Declined,1,1
+14999,Net Banking,Transaction Timeout,1,1
+1499,Debit Card,Card Expired,3,0
+499,Wallet,Insufficient Funds,5,0
+1999,Debit Card,Card Expired,2,1
+1499,Credit Card,Card Expired,5,1
+24999,UPI,Card Expired,4,0
+14999,Wallet,Bank Declined,5,0
+14999,Debit Card,Network Error,2,1
+4999,Net Banking,Network Error,3,1
+1999,Wallet,Insufficient Funds,3,1
+299,UPI,Network Error,3,1
+499,Wallet,Transaction Timeout,5,1
+14999,Wallet,Insufficient Funds,4,0
+14999,Credit Card,Network Error,5,0
+799,UPI,Bank Declined,1,0
+1999,UPI,Transaction Timeout,2,1
+49999,Net Banking,Bank Declined,5,0
+799,Debit Card,Network Error,3,1
+1999,Wallet,Insufficient Funds,3,1
+499,Wallet,Bank Declined,3,1
+24999,Wallet,Card Expired,3,1
+24999,Credit Card,Network Error,3,0
+49999,Net Banking,Card Expired,5,0
+499,Debit Card,Transaction Timeout,4,0
+1999,Credit Card,Transaction Timeout,1,1
+2499,Wallet,Network Error,1,1
+799,Credit Card,Network Error,4,1
+799,Credit Card,Insufficient Funds,3,0
+499,Wallet,Transaction Timeout,5,1
+1999,Wallet,Card Expired,5,0
+799,Credit Card,Transaction Timeout,2,0
+299,Net Banking,Network Error,2,0
+14999,Debit Card,Bank Declined,2,0
+1499,Net Banking,Card Expired,3,0
+14999,Net Banking,Bank Declined,3,0
+9999,Wallet,Bank Declined,2,0
+14999,Credit Card,Network Error,1,1
+1999,Wallet,Insufficient Funds,5,0
+1499,UPI,Card Expired,3,1
+9999,Credit Card,Bank Declined,1,0
+999,Net Banking,Network Error,1,1
+2499,Wallet,Network Error,2,1
+499,Debit Card,Card Expired,1,1
+499,Debit Card,Card Expired,2,1
+4999,Credit Card,Bank Declined,4,0
+499,UPI,Network Error,2,0
+9999,Wallet,Transaction Timeout,4,1
+1499,Credit Card,Network Error,1,1
+2499,Wallet,Bank Declined,1,1
+4999,Wallet,Transaction Timeout,1,0
+14999,Credit Card,Card Expired,3,0
+14999,Debit Card,Card Expired,5,0
+24999,UPI,Transaction Timeout,3,1
+9999,Wallet,Transaction Timeout,5,0
+2499,Net Banking,Insufficient Funds,4,0
+1499,UPI,Network Error,1,1
+49999,UPI,Transaction Timeout,3,1
+1999,Wallet,Network Error,2,0
+24999,Net Banking,Bank Declined,2,0
+499,Net Banking,Insufficient Funds,3,1
+999,UPI,Network Error,3,1
+9999,Net Banking,Network Error,1,0
+999,Debit Card,Network Error,1,0
+1999,Debit Card,Insufficient Funds,3,1
+2499,Net Banking,Bank Declined,3,0
+4999,Net Banking,Network Error,5,1
+499,Net Banking,Insufficient Funds,4,1
+799,Wallet,Network Error,3,1
+1999,Debit Card,Network Error,4,0
+2499,Credit Card,Bank Declined,3,0
+49999,Debit Card,Transaction Timeout,4,1
+299,UPI,Bank Declined,3,1
+49999,Credit Card,Insufficient Funds,2,0
+24999,Net Banking,Insufficient Funds,2,1
+24999,Debit Card,Network Error,4,0
+299,Wallet,Card Expired,4,0
+1999,Net Banking,Insufficient Funds,5,1
+1999,Net Banking,Network Error,3,1
+499,UPI,Card Expired,4,0
+9999,UPI,Network Error,3,0
+999,Wallet,Network Error,4,1
+799,UPI,Bank Declined,2,0
+4999,UPI,Network Error,3,0
+9999,Wallet,Network Error,3,0
+49999,Credit Card,Network Error,5,1
+999,Credit Card,Card Expired,4,1
+9999,Wallet,Network Error,4,0
+9999,Credit Card,Transaction Timeout,1,1
+2499,Net Banking,Transaction Timeout,4,0
+14999,UPI,Card Expired,3,0
+4999,Net Banking,Transaction Timeout,3,1
+9999,Wallet,Card Expired,2,0
+299,UPI,Transaction Timeout,2,1
+799,Debit Card,Card Expired,3,0
+9999,Debit Card,Insufficient Funds,3,1
+9999,Debit Card,Card Expired,3,0
+499,Wallet,Card Expired,5,0
+799,Credit Card,Transaction Timeout,5,1
+14999,UPI,Insufficient Funds,1,1
+24999,Wallet,Network Error,2,0
+2499,Wallet,Insufficient Funds,4,0
+9999,Debit Card,Network Error,4,1
+24999,Net Banking,Network Error,4,1
+299,Credit Card,Bank Declined,4,0
+999,Debit Card,Transaction Timeout,2,1
+49999,Debit Card,Network Error,4,1
+1999,Wallet,Transaction Timeout,1,1
+4999,UPI,Network Error,4,1
+499,UPI,Network Error,4,0
+2499,Credit Card,Card Expired,3,0
+49999,Debit Card,Card Expired,2,0
+9999,Net Banking,Bank Declined,3,0
+499,Net Banking,Transaction Timeout,4,0
+999,Wallet,Network Error,1,1
+4999,Wallet,Bank Declined,3,0
+499,Net Banking,Card Expired,3,0
+2499,Debit Card,Insufficient Funds,4,1
+9999,Credit Card,Network Error,5,1
+2499,Wallet,Bank Declined,5,0
+14999,Wallet,Insufficient Funds,2,0
+2499,Debit Card,Network Error,5,0
+799,Credit Card,Transaction Timeout,5,1
+299,UPI,Insufficient Funds,2,1
+4999,Wallet,Bank Declined,2,0
+9999,Credit Card,Network Error,5,1
+2499,Wallet,Network Error,5,1
+9999,Wallet,Bank Declined,5,0
+299,Debit Card,Network Error,1,0
+14999,Debit Card,Insufficient Funds,5,0
+24999,Wallet,Transaction Timeout,2,0
+14999,Net Banking,Card Expired,5,0
+14999,Net Banking,Card Expired,2,1
+49999,UPI,Card Expired,1,1
+2499,Credit Card,Bank Declined,2,0
+14999,Net Banking,Insufficient Funds,2,1
+9999,Debit Card,Bank Declined,5,0
+799,Net Banking,Transaction Timeout,3,1
+24999,Debit Card,Transaction Timeout,4,1
+999,Debit Card,Transaction Timeout,3,1
+1499,Debit Card,Card Expired,4,1
+1999,Wallet,Network Error,3,1
+24999,Wallet,Bank Declined,4,0
+799,Debit Card,Insufficient Funds,3,0
+499,Debit Card,Bank Declined,3,0
+999,Credit Card,Transaction Timeout,3,0
+49999,Debit Card,Card Expired,1,0
+14999,Credit Card,Card Expired,1,0
+9999,Credit Card,Card Expired,1,1
+1999,Net Banking,Insufficient Funds,2,1
+9999,Credit Card,Bank Declined,4,0
+999,Debit Card,Network Error,3,0
+499,Wallet,Card Expired,5,0
+299,Credit Card,Bank Declined,2,0
+299,Net Banking,Bank Declined,2,0
+1499,UPI,Insufficient Funds,3,1
+499,Debit Card,Network Error,4,0
+9999,Wallet,Bank Declined,2,0
+4999,Debit Card,Card Expired,1,1
+49999,Net Banking,Network Error,2,1
+1999,Debit Card,Transaction Timeout,2,1
+24999,Net Banking,Bank Declined,5,0
+2499,UPI,Card Expired,2,0
+999,UPI,Network Error,4,1
+1499,Debit Card,Network Error,5,0
+299,Debit Card,Network Error,2,1
+499,Net Banking,Network Error,2,1
+9999,Debit Card,Insufficient Funds,3,1
+999,Credit Card,Card Expired,4,1
+49999,Wallet,Network Error,4,0
+4999,Wallet,Card Expired,2,0
+14999,UPI,Transaction Timeout,4,1
+1999,UPI,Transaction Timeout,1,1
+9999,Wallet,Card Expired,5,0
+799,Debit Card,Transaction Timeout,4,1
+999,Wallet,Bank Declined,1,0
+4999,UPI,Bank Declined,2,0
+4999,Wallet,Insufficient Funds,5,0
+1499,UPI,Bank Declined,3,0
+49999,Credit Card,Transaction Timeout,1,1
+1999,UPI,Transaction Timeout,1,0
+499,Net Banking,Insufficient Funds,3,1
+799,Net Banking,Network Error,4,1
+2499,Net Banking,Insufficient Funds,5,1
+1999,UPI,Card Expired,5,0
+799,Credit Card,Insufficient Funds,1,0
+4999,Wallet,Bank Declined,5,0
+999,Credit Card,Bank Declined,3,1
+999,UPI,Insufficient Funds,4,1
+299,Credit Card,Card Expired,1,1
+299,Net Banking,Transaction Timeout,1,1
+299,Net Banking,Bank Declined,2,1
+299,Credit Card,Transaction Timeout,3,1
+49999,Wallet,Network Error,5,0
+24999,Debit Card,Card Expired,3,0
+24999,Wallet,Card Expired,4,0
+299,Wallet,Transaction Timeout,2,0
+2499,Wallet,Bank Declined,1,0
+24999,Net Banking,Transaction Timeout,3,0
+2499,Credit Card,Network Error,4,1
+9999,Net Banking,Card Expired,2,1
+49999,Credit Card,Bank Declined,1,0
+2499,Wallet,Transaction Timeout,2,1
+1499,Credit Card,Network Error,1,0
+1999,UPI,Transaction Timeout,2,1
+2499,Wallet,Transaction Timeout,1,0
+999,Wallet,Transaction Timeout,2,1
+1999,Debit Card,Insufficient Funds,2,0
+49999,UPI,Bank Declined,2,0
+49999,Credit Card,Bank Declined,2,0
+1499,Net Banking,Bank Declined,5,0
+1499,Debit Card,Network Error,5,0
+4999,UPI,Bank Declined,3,0
+1999,Debit Card,Bank Declined,1,0
+999,Credit Card,Insufficient Funds,3,1
+14999,Wallet,Bank Declined,3,1
+1999,Credit Card,Bank Declined,5,0
+4999,Wallet,Network Error,3,0
+4999,Net Banking,Bank Declined,2,0
+1999,Credit Card,Card Expired,5,0
+9999,UPI,Transaction Timeout,1,0
+499,UPI,Insufficient Funds,4,1
+24999,Credit Card,Insufficient Funds,2,1
+9999,Net Banking,Network Error,1,1
+24999,Wallet,Bank Declined,4,1
+9999,Wallet,Bank Declined,1,1
+49999,Debit Card,Transaction Timeout,3,1
+49999,Net Banking,Card Expired,1,0
+9999,Credit Card,Card Expired,2,0
+1499,Debit Card,Network Error,4,1
+2499,Net Banking,Transaction Timeout,2,0
+999,Debit Card,Insufficient Funds,1,1
+2499,Net Banking,Transaction Timeout,4,1
+299,Credit Card,Insufficient Funds,4,0
+24999,Debit Card,Transaction Timeout,1,0
+299,Credit Card,Card Expired,5,0
+299,UPI,Network Error,5,1
+299,Credit Card,Network Error,1,0
+14999,Credit Card,Bank Declined,1,1
+14999,Credit Card,Transaction Timeout,4,0
+9999,Debit Card,Bank Declined,2,0
+49999,UPI,Transaction Timeout,3,1
+2499,Credit Card,Insufficient Funds,3,0
+14999,Wallet,Bank Declined,3,1
+1499,Net Banking,Bank Declined,2,1
+2499,Net Banking,Card Expired,5,0
+499,Wallet,Network Error,2,0
+499,Debit Card,Card Expired,4,0
+24999,Credit Card,Bank Declined,3,0
+499,UPI,Network Error,4,1
+1499,UPI,Card Expired,1,1
+4999,Wallet,Transaction Timeout,5,0
+299,UPI,Network Error,5,1
+14999,Debit Card,Bank Declined,1,1
+2499,UPI,Transaction Timeout,2,1
+799,Net Banking,Card Expired,2,1
+1499,Net Banking,Card Expired,1,1
+1499,Net Banking,Network Error,4,0
+1999,Debit Card,Card Expired,4,0
+999,Net Banking,Insufficient Funds,2,1
+2499,Debit Card,Transaction Timeout,4,0
+1999,Net Banking,Network Error,4,0
+24999,Wallet,Card Expired,3,0
+49999,Credit Card,Bank Declined,3,1
+2499,Debit Card,Network Error,4,0
+999,Debit Card,Bank Declined,3,0
+2499,Debit Card,Insufficient Funds,5,1
+9999,Credit Card,Transaction Timeout,1,0
+4999,Credit Card,Bank Declined,3,0
+499,Net Banking,Bank Declined,2,0
+999,Debit Card,Card Expired,4,0
+499,Net Banking,Transaction Timeout,4,1
+9999,Wallet,Bank Declined,5,1
+1999,Wallet,Transaction Timeout,1,1
+999,Debit Card,Card Expired,5,1
+24999,Net Banking,Network Error,4,1
+499,Debit Card,Card Expired,5,0
+9999,Wallet,Transaction Timeout,2,1
+2499,Net Banking,Transaction Timeout,5,1
+299,Net Banking,Insufficient Funds,3,1
+499,UPI,Card Expired,3,1
+4999,Credit Card,Transaction Timeout,4,1
+499,Net Banking,Bank Declined,3,1
+299,UPI,Insufficient Funds,3,1
+24999,Credit Card,Card Expired,5,0
+799,Debit Card,Transaction Timeout,4,0
+999,Net Banking,Card Expired,2,0
+2499,Net Banking,Insufficient Funds,5,0
+4999,Wallet,Bank Declined,4,1
+999,Credit Card,Network Error,1,1
+9999,Credit Card,Network Error,3,1
+499,Debit Card,Bank Declined,5,0
+1999,Wallet,Bank Declined,5,0
+499,Debit Card,Network Error,4,0
+24999,Debit Card,Transaction Timeout,5,1
+799,Debit Card,Insufficient Funds,2,1
+799,Debit Card,Card Expired,5,0
+14999,Credit Card,Transaction Timeout,4,1
+4999,Wallet,Card Expired,5,0
+1499,Credit Card,Card Expired,3,0
+14999,UPI,Network Error,1,1
+999,Net Banking,Transaction Timeout,5,0
+2499,Net Banking,Bank Declined,4,0
+499,Wallet,Insufficient Funds,2,1
+1499,Credit Card,Transaction Timeout,3,1
+4999,Wallet,Bank Declined,5,0
+14999,UPI,Network Error,5,0
+1999,Wallet,Insufficient Funds,4,0
+2499,UPI,Card Expired,3,0
+299,Net Banking,Network Error,3,0
+499,Net Banking,Insufficient Funds,2,1
+49999,Wallet,Network Error,5,0
+799,Wallet,Card Expired,2,0
+299,Wallet,Network Error,5,1
+9999,Credit Card,Network Error,3,1
+1499,Wallet,Insufficient Funds,2,0
+2499,UPI,Network Error,2,1
+799,Credit Card,Card Expired,3,0
+24999,Net Banking,Bank Declined,2,0
+1499,Net Banking,Bank Declined,4,1
+499,Net Banking,Transaction Timeout,3,0
+1999,Net Banking,Bank Declined,3,0
+49999,UPI,Bank Declined,3,0
+9999,Net Banking,Card Expired,4,0
+4999,Debit Card,Network Error,3,1
+14999,Credit Card,Transaction Timeout,4,0
+24999,UPI,Insufficient Funds,1,1
+4999,UPI,Insufficient Funds,2,1
+299,Net Banking,Card Expired,2,0
+1499,Credit Card,Network Error,1,1
+1499,UPI,Network Error,2,1
+24999,Debit Card,Card Expired,4,0
+49999,UPI,Insufficient Funds,2,1
+799,Wallet,Card Expired,5,0
+299,UPI,Network Error,1,0
+2499,Credit Card,Bank Declined,1,1
+499,UPI,Insufficient Funds,3,1
+1499,Credit Card,Bank Declined,2,0
+24999,Credit Card,Insufficient Funds,5,0
+14999,Credit Card,Bank Declined,3,0
+24999,Credit Card,Bank Declined,5,0
+999,UPI,Insufficient Funds,2,1
+14999,Net Banking,Network Error,4,1
+799,Credit Card,Network Error,1,1
+14999,Wallet,Transaction Timeout,3,0
+49999,UPI,Network Error,2,1
+9999,Credit Card,Bank Declined,3,0
+999,Net Banking,Bank Declined,1,1
+24999,Wallet,Insufficient Funds,5,0
+299,Debit Card,Network Error,2,1
+14999,Net Banking,Network Error,5,0
+4999,UPI,Insufficient Funds,5,1
+1499,Credit Card,Insufficient Funds,1,0
+2499,Wallet,Network Error,5,0
+2499,Net Banking,Insufficient Funds,5,0
+799,Debit Card,Insufficient Funds,3,1
+999,Credit Card,Transaction Timeout,3,1
+24999,UPI,Network Error,4,0
+999,UPI,Card Expired,1,0
+499,Net Banking,Transaction Timeout,5,1
+24999,Credit Card,Insufficient Funds,1,0
+49999,UPI,Card Expired,4,0
+9999,Wallet,Network Error,2,1
+49999,Debit Card,Insufficient Funds,1,1
+2499,Debit Card,Transaction Timeout,1,1
+14999,UPI,Bank Declined,4,0
+299,Net Banking,Transaction Timeout,2,1
+1499,UPI,Transaction Timeout,1,1
+9999,UPI,Insufficient Funds,1,1
+4999,Debit Card,Bank Declined,2,1
+299,Wallet,Bank Declined,2,1
+2499,Debit Card,Network Error,1,1
+499,Wallet,Insufficient Funds,2,1
+9999,UPI,Bank Declined,1,0
+1499,Debit Card,Network Error,1,1
+299,Debit Card,Card Expired,3,0
+1499,Wallet,Card Expired,4,0
+4999,Credit Card,Transaction Timeout,2,1
+2499,UPI,Card Expired,5,0
+49999,UPI,Network Error,1,0
+2499,Debit Card,Insufficient Funds,2,1
+999,Net Banking,Bank Declined,1,0
+799,Debit Card,Insufficient Funds,1,0
+9999,Net Banking,Network Error,4,0
+499,Wallet,Insufficient Funds,5,1
+2499,UPI,Transaction Timeout,5,1
+24999,Credit Card,Card Expired,3,0
+1999,Net Banking,Network Error,3,1
+999,UPI,Card Expired,2,0
+14999,UPI,Card Expired,1,1
+4999,Debit Card,Bank Declined,1,0
+999,Net Banking,Network Error,4,1
+499,UPI,Card Expired,3,0
+49999,Wallet,Insufficient Funds,2,0
+1999,Credit Card,Insufficient Funds,2,0
+2499,Wallet,Insufficient Funds,3,1
+799,UPI,Bank Declined,4,0
+9999,Credit Card,Insufficient Funds,4,1
+799,UPI,Insufficient Funds,1,0
+999,Credit Card,Card Expired,4,0
+24999,UPI,Transaction Timeout,5,1
+499,UPI,Insufficient Funds,2,0
+4999,Credit Card,Insufficient Funds,3,1
+4999,UPI,Card Expired,5,0
+49999,Net Banking,Bank Declined,1,1
+2499,Credit Card,Network Error,2,0
+1499,Debit Card,Bank Declined,2,1
+14999,Wallet,Card Expired,3,0
+9999,Net Banking,Insufficient Funds,1,1
+799,Net Banking,Card Expired,5,1
+9999,UPI,Bank Declined,3,0
+4999,Debit Card,Transaction Timeout,5,1
+1499,Credit Card,Insufficient Funds,3,1
+299,Debit Card,Insufficient Funds,4,0
+14999,Credit Card,Card Expired,1,1
+999,Debit Card,Transaction Timeout,1,0
+999,Wallet,Bank Declined,3,0
+799,Credit Card,Card Expired,5,0
+49999,Debit Card,Transaction Timeout,1,0
+1999,Wallet,Transaction Timeout,2,1
+999,Net Banking,Transaction Timeout,3,1
+299,UPI,Insufficient Funds,2,1
+299,Wallet,Bank Declined,1,1
+14999,Credit Card,Card Expired,3,0
+1999,UPI,Insufficient Funds,2,1
+799,UPI,Transaction Timeout,3,0
+1999,Net Banking,Transaction Timeout,1,1
+1999,Credit Card,Card Expired,4,0
+4999,Debit Card,Card Expired,5,0
+14999,Debit Card,Card Expired,5,0
+2499,Debit Card,Network Error,2,1
+299,Wallet,Bank Declined,5,1
+14999,Debit Card,Transaction Timeout,2,0
+499,Net Banking,Card Expired,3,0
+999,Debit Card,Network Error,2,1
+499,Debit Card,Bank Declined,1,1
+999,UPI,Network Error,3,0
+49999,UPI,Insufficient Funds,4,1
+2499,Credit Card,Bank Declined,4,0
+1999,Wallet,Bank Declined,1,0
+14999,Credit Card,Card Expired,4,1
+299,Debit Card,Insufficient Funds,3,1
+499,UPI,Network Error,2,0
+799,UPI,Transaction Timeout,1,1
+14999,Net Banking,Insufficient Funds,4,0
+799,Wallet,Bank Declined,2,1
+1999,Credit Card,Card Expired,4,0
+49999,Wallet,Network Error,3,1
+499,UPI,Bank Declined,5,0
+4999,Credit Card,Insufficient Funds,3,1
+499,Debit Card,Transaction Timeout,4,1
+299,Credit Card,Card Expired,3,0
+4999,UPI,Network Error,4,1
+24999,Debit Card,Insufficient Funds,5,0
+1999,Net Banking,Network Error,2,1
+1499,Net Banking,Bank Declined,3,1
+1499,Wallet,Insufficient Funds,2,0
+24999,UPI,Insufficient Funds,3,0
+2499,Wallet,Card Expired,5,1
+2499,Wallet,Bank Declined,5,0
+4999,Wallet,Card Expired,4,0
+2499,UPI,Transaction Timeout,5,0
+14999,Wallet,Card Expired,1,0
+4999,Credit Card,Card Expired,2,0
+799,UPI,Bank Declined,1,0
+2499,Credit Card,Card Expired,5,0
+49999,UPI,Insufficient Funds,4,0
+9999,Debit Card,Network Error,5,0
+299,Wallet,Transaction Timeout,5,0
+499,Net Banking,Card Expired,2,0
+14999,UPI,Insufficient Funds,5,0
+1499,Wallet,Network Error,4,1
+24999,Net Banking,Transaction Timeout,5,0
+799,Debit Card,Bank Declined,2,0
+24999,Net Banking,Insufficient Funds,4,0
+1999,Credit Card,Insufficient Funds,4,0
+1999,UPI,Network Error,3,1
+4999,UPI,Card Expired,2,1
+49999,Net Banking,Network Error,3,0
+14999,UPI,Card Expired,4,1
+2499,Net Banking,Transaction Timeout,3,0
+9999,Credit Card,Insufficient Funds,3,0
+2499,Credit Card,Transaction Timeout,5,1
+999,Credit Card,Insufficient Funds,2,1
+299,Debit Card,Card Expired,3,1
+4999,Wallet,Bank Declined,1,0
+999,Debit Card,Bank Declined,5,0
+4999,Wallet,Transaction Timeout,3,1
+1499,UPI,Network Error,1,1
+799,Wallet,Card Expired,2,0
+24999,Credit Card,Network Error,4,0
+24999,UPI,Bank Declined,2,0
+14999,UPI,Card Expired,3,0
+1499,Debit Card,Bank Declined,4,0
+4999,Debit Card,Card Expired,4,0
+9999,Wallet,Bank Declined,5,1
+9999,Debit Card,Transaction Timeout,5,0
+1499,UPI,Bank Declined,1,1
+1499,Debit Card,Network Error,3,0
+24999,Debit Card,Card Expired,2,0
+999,UPI,Transaction Timeout,4,0
+24999,Credit Card,Insufficient Funds,4,0
+1499,Net Banking,Bank Declined,4,0
+14999,Wallet,Card Expired,3,0
+999,Wallet,Bank Declined,3,0
+799,Wallet,Card Expired,3,1
+799,Debit Card,Transaction Timeout,2,0
+1999,UPI,Card Expired,3,1
+1499,Net Banking,Network Error,3,1
+1499,Net Banking,Insufficient Funds,4,1
+24999,Wallet,Transaction Timeout,5,1
+999,Wallet,Insufficient Funds,4,0
+2499,UPI,Card Expired,2,0
+1999,Net Banking,Transaction Timeout,4,1
+49999,Credit Card,Insufficient Funds,4,1
+799,Debit Card,Insufficient Funds,1,1
+999,Credit Card,Transaction Timeout,2,1
+499,Credit Card,Transaction Timeout,4,0
+2499,Net Banking,Bank Declined,4,1
+9999,Credit Card,Network Error,1,0
+9999,Credit Card,Insufficient Funds,1,1
+999,Credit Card,Network Error,3,1
+2499,Wallet,Transaction Timeout,3,1
+299,Debit Card,Network Error,4,0
+14999,Wallet,Network Error,4,0
+799,Debit Card,Bank Declined,3,0
+799,Net Banking,Insufficient Funds,2,1
+799,Credit Card,Insufficient Funds,5,0
+499,Debit Card,Insufficient Funds,4,0
+1499,Wallet,Transaction Timeout,1,1
+299,UPI,Insufficient Funds,1,1
+2499,Net Banking,Bank Declined,1,0
+4999,Credit Card,Card Expired,1,1
+24999,UPI,Transaction Timeout,3,0
+49999,Credit Card,Bank Declined,1,0
+14999,UPI,Network Error,1,0
+4999,Credit Card,Transaction Timeout,2,0
+9999,Credit Card,Network Error,4,1
+299,Wallet,Bank Declined,2,0
+4999,Debit Card,Card Expired,1,1
+499,UPI,Transaction Timeout,4,1
+499,Wallet,Insufficient Funds,1,0
+24999,Credit Card,Bank Declined,3,0
+299,UPI,Card Expired,1,0
+1999,Debit Card,Bank Declined,1,1
+299,UPI,Card Expired,2,1
+4999,Wallet,Network Error,1,1
+1999,Credit Card,Insufficient Funds,4,1
+4999,Debit Card,Bank Declined,4,0
+24999,Credit Card,Insufficient Funds,2,0
+299,Credit Card,Insufficient Funds,4,0
+4999,Wallet,Bank Declined,2,0
+1999,Wallet,Insufficient Funds,2,1
+4999,UPI,Bank Declined,4,1
+1499,Debit Card,Insufficient Funds,5,0
+14999,Wallet,Card Expired,3,0
+49999,Wallet,Insufficient Funds,4,0
+999,Net Banking,Network Error,4,1
+9999,Wallet,Insufficient Funds,1,0
+799,Wallet,Bank Declined,4,0
+499,Net Banking,Network Error,2,1
+1499,UPI,Transaction Timeout,2,1
+2499,Net Banking,Card Expired,1,1
+14999,Net Banking,Insufficient Funds,4,1
+499,Net Banking,Insufficient Funds,1,1
+299,Wallet,Transaction Timeout,1,0
+14999,Wallet,Network Error,5,0
+24999,Net Banking,Network Error,3,0
+999,Net Banking,Network Error,5,0
+14999,Net Banking,Network Error,4,1
+24999,Credit Card,Insufficient Funds,3,1
+24999,Debit Card,Transaction Timeout,5,0
+499,UPI,Card Expired,4,1
+49999,Net Banking,Insufficient Funds,3,0
+999,UPI,Bank Declined,2,1
+999,Debit Card,Insufficient Funds,4,1
+24999,Wallet,Insufficient Funds,4,0
+14999,Wallet,Card Expired,4,1
+49999,UPI,Transaction Timeout,4,0
+4999,Wallet,Card Expired,5,0
+799,UPI,Bank Declined,5,0
+1999,Wallet,Bank Declined,4,0
+49999,Credit Card,Network Error,4,0
+1499,Net Banking,Card Expired,2,1
+49999,Wallet,Network Error,5,0
+49999,Wallet,Card Expired,2,1
+49999,Debit Card,Network Error,2,0
+24999,Credit Card,Transaction Timeout,5,0
+1999,UPI,Network Error,5,1
+14999,Net Banking,Transaction Timeout,3,0
+2499,UPI,Transaction Timeout,1,1
+799,UPI,Insufficient Funds,2,1
+799,Debit Card,Network Error,2,0
+49999,Debit Card,Card Expired,5,1
+4999,UPI,Transaction Timeout,5,0
+49999,Wallet,Bank Declined,2,0
+49999,Debit Card,Insufficient Funds,4,0
+24999,Debit Card,Transaction Timeout,1,1
+1499,Credit Card,Transaction Timeout,4,0
+24999,Debit Card,Transaction Timeout,5,0
+999,Credit Card,Network Error,4,1
+24999,UPI,Card Expired,2,0
+499,Net Banking,Insufficient Funds,4,1
+1499,Credit Card,Card Expired,5,0
+299,Debit Card,Bank Declined,2,1
+1999,Wallet,Insufficient Funds,5,0
+1499,Net Banking,Transaction Timeout,5,1
+49999,Debit Card,Transaction Timeout,2,0
+9999,UPI,Transaction Timeout,2,1
+9999,Net Banking,Insufficient Funds,3,1
+999,Debit Card,Network Error,3,1
+14999,Wallet,Bank Declined,5,0
+24999,UPI,Insufficient Funds,3,1
+24999,Wallet,Transaction Timeout,2,0
+24999,Debit Card,Bank Declined,1,0
+9999,Debit Card,Insufficient Funds,5,0
+1999,Wallet,Transaction Timeout,4,1
+1499,Credit Card,Network Error,5,1
+499,Credit Card,Transaction Timeout,5,1
+499,Credit Card,Card Expired,4,0
+999,Wallet,Bank Declined,1,0
+799,UPI,Bank Declined,3,1
+499,UPI,Card Expired,3,0
+14999,Credit Card,Network Error,4,1
+24999,Net Banking,Bank Declined,3,1
+24999,UPI,Transaction Timeout,1,1
+14999,UPI,Transaction Timeout,1,1
+499,Debit Card,Transaction Timeout,1,1
+24999,Debit Card,Transaction Timeout,1,1
+4999,Net Banking,Bank Declined,1,1
+9999,Credit Card,Card Expired,4,0
+9999,Debit Card,Card Expired,3,0
+49999,Debit Card,Insufficient Funds,5,0
+799,UPI,Insufficient Funds,1,1
+2499,Wallet,Transaction Timeout,1,1
+49999,Debit Card,Card Expired,4,0
+9999,Credit Card,Card Expired,2,1
+1499,Credit Card,Insufficient Funds,2,0
+14999,UPI,Transaction Timeout,4,0
+499,Debit Card,Insufficient Funds,3,1
+49999,Wallet,Bank Declined,3,0
+24999,Credit Card,Insufficient Funds,3,0
+999,Debit Card,Bank Declined,4,1
+24999,Debit Card,Transaction Timeout,2,0
+1999,Debit Card,Bank Declined,2,1
+999,Credit Card,Bank Declined,3,0
+799,Debit Card,Bank Declined,4,0
+1499,Net Banking,Transaction Timeout,1,1
+14999,UPI,Network Error,2,0
+999,Debit Card,Insufficient Funds,1,0
+9999,UPI,Transaction Timeout,5,1
+14999,Credit Card,Insufficient Funds,5,1
+9999,Net Banking,Card Expired,3,0
+14999,Debit Card,Card Expired,4,0
+499,Net Banking,Network Error,5,1
+999,Wallet,Card Expired,5,1
+799,Credit Card,Transaction Timeout,5,0
+799,Net Banking,Network Error,1,1
+4999,Credit Card,Insufficient Funds,3,1
+299,Credit Card,Transaction Timeout,3,1
+4999,UPI,Insufficient Funds,3,1
+9999,Debit Card,Network Error,5,0
+799,Net Banking,Bank Declined,3,0
+499,Wallet,Network Error,4,0
+999,Wallet,Bank Declined,3,0
+1999,Net Banking,Bank Declined,5,1
+799,Net Banking,Card Expired,2,1
+24999,Debit Card,Card Expired,2,1
+1999,Wallet,Insufficient Funds,2,1
+1999,UPI,Bank Declined,4,1
+14999,Credit Card,Bank Declined,1,1
+799,Wallet,Transaction Timeout,2,1
+9999,UPI,Transaction Timeout,2,1
+1499,Credit Card,Transaction Timeout,4,0
+14999,UPI,Network Error,1,1
+14999,Net Banking,Bank Declined,2,1
+2499,Wallet,Card Expired,5,0
+799,Wallet,Transaction Timeout,3,1
+24999,Debit Card,Bank Declined,5,0
+999,Net Banking,Bank Declined,2,1
+999,Wallet,Transaction Timeout,4,0
+14999,UPI,Card Expired,4,0
+14999,UPI,Transaction Timeout,5,0
+499,Net Banking,Card Expired,5,0
+299,Net Banking,Transaction Timeout,4,1
+299,Wallet,Bank Declined,2,0
+4999,Net Banking,Network Error,5,0
+49999,Wallet,Insufficient Funds,4,1
+4999,Credit Card,Insufficient Funds,3,0
+9999,Net Banking,Network Error,2,1
+49999,UPI,Transaction Timeout,5,1
+299,Net Banking,Card Expired,3,1
+499,Credit Card,Bank Declined,5,1
+9999,Net Banking,Transaction Timeout,3,0
+24999,Net Banking,Card Expired,4,0
+9999,Net Banking,Card Expired,3,0
+4999,Debit Card,Network Error,5,1
+49999,Net Banking,Card Expired,1,0
+4999,Credit Card,Insufficient Funds,2,1
+1999,Wallet,Transaction Timeout,1,1
+24999,UPI,Insufficient Funds,2,1
+14999,Net Banking,Insufficient Funds,1,1
+1999,UPI,Transaction Timeout,1,1
+2499,Wallet,Transaction Timeout,3,0
+14999,UPI,Card Expired,4,0
+999,Wallet,Network Error,2,1

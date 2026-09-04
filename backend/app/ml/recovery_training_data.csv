@@ -1,0 +1,5 @@
+amount,payment_method,failure_reason,attempt_count,successful_attempts,failed_attempts,final_status,recovery_probability,recovery_status
+1499.0,UPI,Insufficient Funds,5,3,2,recovered,0.9878,recovered
+2499.0,UPI,Insufficient Funds,1,1,0,recovered,0.9828,recovered
+1800.0,UPI,Insufficient Funds,1,1,0,recovered,0.9965,recovered
+1800.0,UPI,Insufficient Funds,1,1,0,recovered,0.9965,recovered
