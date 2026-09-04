@@ -8,6 +8,20 @@ It combines **machine learning, AI-powered decision making, recovery policies, a
 
 🔗 **Live Demo:** https://recoverai-platform.vercel.app/
 
+### 🎮 Demo Access
+
+Want to explore RecoverAI without creating an account?
+
+Use the following demo credentials:
+
+| Field        | Demo Credential    |
+| ------------ | ------------------ |
+| **Email**    | `demo@example.com` |
+| **Password** | `password123`      |
+
+> 💡 **Note:** These credentials are provided for demonstration purposes only. Please do not use them for any sensitive or real-world data.
+
+
 ---
 
 ## 📌 Why RecoverAI?
